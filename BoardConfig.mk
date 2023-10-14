@@ -197,6 +197,7 @@ TW_INCLUDE_FASTBOOTD := true
 
 # TWRP Configuration
 TW_INCLUDE_RESETPROP := true
+TW_DEVİCE_VERSİON := YZ-Bruh
 TW_NO_FLASH_CURRENT_TWRP := true
 TW_THEME := portrait_hdpi
 TW_FRAMERATE := 60
@@ -213,7 +214,7 @@ TW_INPUT_BLACKLIST := "hbtp_vm"
 TW_BRIGHTNESS_PATH := "/sys/class/backlight/panel0-backlight/brightness"
 TW_MAX_BRIGHTNESS := 2047
 TW_EXTRA_LANGUAGES := true
-TW_DEFAULT_LANGUAGE := ru
+TW_DEFAULT_LANGUAGE := en
 TW_DEFAULT_BRIGHTNESS := 204
 TW_Y_OFFSET := 99
 TW_H_OFFSET := -99
